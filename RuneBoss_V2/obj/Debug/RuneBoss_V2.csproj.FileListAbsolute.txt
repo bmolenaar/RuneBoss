@@ -1,0 +1,30 @@
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\bin\Debug\RuneBoss_V2.exe.config
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\bin\Debug\RuneBoss_V2.exe
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\bin\Debug\RuneBoss_V2.pdb
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.csprojAssemblyReference.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.Form1.resources
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.Properties.Resources.resources
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.csproj.GenerateResource.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.csproj.CoreCompileInputs.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.exe
+C:\Users\benmo\AppData\Local\Temporary Projects\RuneBoss_V2\obj\Debug\RuneBoss_V2.pdb
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\RuneBoss_V2.exe.config
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\RuneBoss_V2.exe
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\RuneBoss_V2.pdb
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.Properties.Resources.resources
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.csproj.GenerateResource.cache
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.csproj.CoreCompileInputs.cache
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.exe
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.pdb
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.csprojAssemblyReference.cache
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.Form1.resources
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.Form2.resources
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\HtmlAgilityPack.xml
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.csproj.CopyComplete
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.Form3.resources
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\RuneBoss_V2.exe.manifest
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\bin\Debug\RuneBoss_V2.application
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.exe.manifest
+E:\Projects\RuneBoss_v2\RuneBoss_V2\RuneBoss_V2\obj\Debug\RuneBoss_V2.application
